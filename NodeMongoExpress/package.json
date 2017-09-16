@@ -1,0 +1,15 @@
+{
+  "name": "nodemongoexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Mayuran Satchithanantham",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.12.1"
+  }
+}
